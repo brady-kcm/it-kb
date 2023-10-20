@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome Crew!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a self serve IT Knowledge Base. It provides solutions and processes to common questions. Of course, it is not comprehensive. If you can't find what you're looking for please contact the [Helpdesk](mailto:helpdesk@keepingcurrentmatters.com) 
 
-## Commands
+## Navigation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* The sidebar on the left lists all of the different categories for the documents. 
+* You can also *try* to use the search bar at the top.
+* On your right is the table of contents for the current document that you're reading.
 
-## Project layout
+## Suggesting Edits
+If you notice an error or think some more detail is needed feel free to create an [issue](https://github.com/brady-kcm/it-kb/issues/new/choose) on github and fill in the Edit Suggestion template.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you're feeling technically inclined go ahead and clone the repo to make your changes and then create a pull request.
