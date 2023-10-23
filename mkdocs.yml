@@ -1,11 +1,13 @@
 site_name: IT Knowledge Base
+
 theme:
   name: material
-  logo: \assets\shi-logo.png
+  logo: /assets/shi-logo.png
 
   palette: 
     scheme: slate
     primary: blue
     accent: deep orange
-  
 
+markdown_extensions:
+  - admonition
