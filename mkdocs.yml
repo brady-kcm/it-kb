@@ -1,12 +1,13 @@
 site_name: IT Knowledge Base
 site_url: https://brady-kcm.github.io/it-kb/
 
-repo_name: brady-kcm/it-kb
-repo_url: https://github.com/brady-kcm/it-kb
-
 theme:
   name: material
   logo: assets/shi-logo.png
+  
+  features:
+  # links all content types of the same title together. (ex. if you click windows all windows tabs show)
+    - content.tabs.link
 
   palette: 
     scheme: slate
@@ -15,3 +16,9 @@ theme:
 
 markdown_extensions:
   - admonition
+  # allows sizing of images
+  - attr_list
+  # adds content tabs
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
