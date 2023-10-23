@@ -1,9 +1,12 @@
 site_name: IT Knowledge Base
 site_url: https://brady-kcm.github.io/it-kb/
 
+repo_name: brady-kcm/it-kb
+repo_url: https://github.com/brady-kcm/it-kb
+
 theme:
   name: material
-  logo: /assets/shi-logo.png
+  logo: assets/shi-logo.png
 
   palette: 
     scheme: slate
