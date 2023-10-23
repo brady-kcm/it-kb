@@ -1,4 +1,5 @@
 site_name: IT Knowledge Base
+site_url: https://brady-kcm.github.io/it-kb/
 
 theme:
   name: material
