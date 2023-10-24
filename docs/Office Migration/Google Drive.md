@@ -4,13 +4,13 @@
     Google forms cannot be migrated and will be exported as excel files.
 
 #### 1. Export Google Drive Files
-- Go to [drive.google.com](drive.google.com).
+- Go to [drive.google.com](https://drive.google.com).
 - On the **My Drive** tab press ⌘+a (mac), Ctrl+a (windows).
 - Right click and press **download**.
 - On your computer unzip the downloaded folder.
 
 #### 2. Import to Onedrive
-- Go to [mykcm-my.sharepoint.com](mykcm-my.sharepoint.com).
+- Go to [mykcm-my.sharepoint.com](https://mykcm-my.sharepoint.com).
 - Press **Add New**.
 - Select the **Folder Upload**.
 - Find the unzipped folder on your computer and press upload.
