@@ -24,6 +24,7 @@ nav:
     - Google Drive: Office Migration/Google Drive.md
     - Google Calendar: Office Migration/Google Calendar.md
     - Google Contacts: Office Migration/Google Contacts.md
+    - Other Services: Office Migration/Other Services.md
 
 markdown_extensions:
   - admonition
