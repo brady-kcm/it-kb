@@ -18,10 +18,13 @@
 - Go to **File** > **Open & Export**.
 - Select **Import/Export**.
 - Choose **Import from another program or file** and press **Next**.
-![Alt text](../assets/screenshots/google-contacts-2.png){: style="height:250px"}
-- Choose **Comma Seperated Values** and press **Next**
-![Alt text](../assets/screenshots/google-contacts-3.png){: style="height:250px"}
+![Alt text](../assets/screenshots/google-contacts-2.png){: style="height:250px"}  
+
+- Choose **Comma Seperated Values** and press **Next**  
+![Alt text](../assets/screenshots/google-contacts-3.png){: style="height:250px"}  
+
 - Find the file on your computer, set your duplication settings and press **Next**
 - Find the **Contacts** folder in the file tree (if there is a specific folder you want the contacts in, feel free to do that).  
 ![Alt text](../assets/screenshots/google-contacts-4.png){: style="height:250px"}  
+
 - Press **Next**
