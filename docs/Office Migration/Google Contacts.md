@@ -5,17 +5,17 @@
 
 #### 1. Export Contacts
 - Go to [contacts.google.com](https://contacts.google.com).
-- Press the **more** (...) button.
+- Select the **up-arrow** icon beside the printer button.
 - Select **export** from the dropdown.
-- Select the all contacts option.
-- Select **Outlook CSV**.  
+- Select the **Contacts** option under Selected Contacts.
+- Select **Outlook CSV**.
 
 ![Alt text](../assets/screenshots/google-contacts-1.png){: style="height:250px"}  
 
-- Press **Export**
+- Select **Export**
 
 #### 2. Import to Outlook
-- Go to **File** > **Open & Export**.
+- Within Outlook go to **File** > **Open & Export**.
 - Select **Import/Export**.
 - Choose **Import from another program or file** and press **Next**.
 ![Alt text](../assets/screenshots/google-contacts-2.png){: style="height:250px"}  

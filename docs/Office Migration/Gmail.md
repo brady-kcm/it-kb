@@ -1,4 +1,4 @@
-# Gmail Migration
+    # Gmail Migration
 !!! note
 
     If the Google account you are migrating is associated with your @keepingcurrentmatters.com email then you can skip this step.

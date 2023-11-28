@@ -18,9 +18,6 @@ theme:
 nav:
   - Welcome: index.md
   - Office Migration:
-    - Migration vs Archival: Office Migration/Migration vs Archival.md
-    - Google Takeout: Office Migration/Google Takeout.md
-    - Gmail: Office Migration/Gmail.md
     - Google Drive: Office Migration/Google Drive.md
     - Google Calendar: Office Migration/Google Calendar.md
     - Google Contacts: Office Migration/Google Contacts.md
