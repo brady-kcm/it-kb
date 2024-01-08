@@ -4,13 +4,13 @@ site_url: https://brady-kcm.github.io/it-kb/
 theme:
   name: material
   logo: assets/shi-logo.png
-  
+
   features:
-  # links all content types of the same title together. (ex. if you click windows all windows tabs show)
+    # links all content types of the same title together. (ex. if you click windows all windows tabs show)
     - content.tabs.link
     - navigation.footer
 
-  palette: 
+  palette:
     scheme: slate
     primary: blue
     accent: deep orange
@@ -18,10 +18,12 @@ theme:
 nav:
   - Welcome: index.md
   - Office Migration:
-    - Google Drive: Office Migration/Google Drive.md
-    - Google Calendar: Office Migration/Google Calendar.md
-    - Google Contacts: Office Migration/Google Contacts.md
-    - Other Services: Office Migration/Other Services.md
+      - Google Drive: Office Migration/Google Drive.md
+      - Google Calendar: Office Migration/Google Calendar.md
+      - Google Contacts: Office Migration/Google Contacts.md
+      - Onedrive: Office Migration/Onedrive.md
+      - Sharepoint: Office Migration/Sharepoint.md
+      - Looking For Something Else: Office Migration/Looking for Something Else.md
 
 markdown_extensions:
   - admonition
